@@ -14,15 +14,19 @@ Sou um desenvolvedor back-end apaixonado por criar e otimizar sistemas eficiente
 
 ## 🛠 Habilidades Técnicas
 
-![Python](https://img.shields.io/badge/Python-3-blue.svg)
-![Django](https://img.shields.io/badge/Django-green.svg)
-![PySide6](https://img.shields.io/badge/PySide6-Qt6-blue.svg)
-![SQL](https://img.shields.io/badge/SQL-yellow.svg)
-![MySQL](https://img.shields.io/badge/MySQL-blue.svg)
-![HTML5](https://img.shields.io/badge/HTML5-orange.svg)
-![CSS3](https://img.shields.io/badge/CSS3-blue.svg)
-[![TDD](https://img.shields.io/badge/TDD-Test--Driven%20Development-red.svg)](URL_PARA_RECURSO_TDD)
-[![Git](https://img.shields.io/badge/Git-Source%20Control-orange.svg)](URL_PARA_RECURSO_GIT)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![TDD](https://img.shields.io/badge/-TDD-<COR>?style=flat-square&logo=<LOGO>&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
+
+
+
 
 ## 🚀 Projetos
 - PortalLock
