@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 Sobre Mim
 
-Sou um desenvolvedor back-end apaixonado por criar e otimizar sistemas eficientes.
+Sou um Cientista de Dados apaixonado por extrair insights valiosos a partir de dados e otimizar sistemas através de técnicas avançadas de análise e machine learning.
 
 ## 🎓 Educação
 
